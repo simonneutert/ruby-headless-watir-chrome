@@ -1,4 +1,4 @@
-# Start Browsing now with Ruby 2.6.4, Watir and Chrome!
+# Start Browsing now with Ruby, Watir and Chrome!
 
 simply clone this repo and start surfing :wink:
 
