@@ -1,4 +1,4 @@
-FROM simonneutert/ruby-2.6.5-headless-chrome
+FROM simonneutert/ruby-2.7.6-headless-chrome
 
 RUN gem install bundler
 COPY Gemfile* ./
